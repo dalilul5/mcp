@@ -1,5 +1,5 @@
-fastapi
-uvicorn
-redis
-aiohttp
-python-dotenv
+fastapi==0.115.0
+uvicorn==0.30.6
+redis==5.0.8
+aiohttp==3.10.5
+pydantic==2.9.2
