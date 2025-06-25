@@ -394,4 +394,4 @@ async def chat_endpoint(
             "context_summary": ai_response[:200] + "..." if len(ai_response) > 200 else ai_response
         }
         
-        await
+        await some_async_function()
