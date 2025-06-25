@@ -1,0 +1,16 @@
+{
+  "clients": {
+    "client_1": {
+      "webhook_url": "https://make.com/webhook/client_1",
+      "prompt": "You are a friendly customer service agent.",
+      "provider": "openai",
+      "model": "gpt-4"
+    },
+    "client_2": {
+      "webhook_url": "https://make.com/webhook/client_2",
+      "prompt": "You are a technical support agent.",
+      "provider": "testmyprompt",
+      "model": "some_model"
+    }
+  }
+}
